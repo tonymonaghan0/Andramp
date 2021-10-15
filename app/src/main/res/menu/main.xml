@@ -1,0 +1,55 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.andramp.mcssoftware.MainActivity" >
+    
+    <item
+        android:id="@+id/action_add_file"
+        android:orderInCategory="100"
+        android:title="@string/action_add_file"
+        app:showAsAction="ifRoom"/>
+    
+    <item
+        android:id="@+id/action_add_folder"
+        android:orderInCategory="100"
+        android:title="@string/action_add_folder"
+        app:showAsAction="ifRoom"/>
+    
+     <item
+        android:id="@+id/action_open_m3u"
+        android:orderInCategory="100"
+        android:title="@string/action_open_m3u"
+        app:showAsAction="ifRoom"/>
+    
+      <item
+        android:id="@+id/action_save_m3u"
+        android:orderInCategory="100"
+        android:title="@string/action_save_m3u"
+        app:showAsAction="ifRoom"/>
+      
+       <item
+        android:id="@+id/action_new_m3u"
+        android:orderInCategory="100"
+        android:title="@string/action_new_m3u"
+        app:showAsAction="ifRoom"/>
+      
+       <item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:title="@string/action_search"
+        app:showAsAction="ifRoom"/>
+     
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom"/>
+    
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        android:title="@string/action_exit"
+        app:showAsAction="ifRoom"/>
+  
+
+</menu>

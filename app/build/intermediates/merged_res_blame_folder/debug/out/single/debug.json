@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_next.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_next.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_pause.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_play.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_play.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\raw_andramp.m3u.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\raw\\andramp.m3u"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_play.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_playlist_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_playlist_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-land_activity_main.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout-xlarge-land\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_andramp.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\andramp.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_ff.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_ff.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_overflow_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_overflow_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_rew.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_rew.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_repeat.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_repeat.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_drawable.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\my_drawable.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_rew.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_rew.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_overflow_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_overflow_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_shuffle.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_shuffle.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_andramp.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\andramp.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_repeat_on.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_repeat_on.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_search_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_andramp.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\andramp.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_repeat_on.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_repeat_on.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_shuffle_on.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_shuffle_on.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_search_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_stop.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_stop.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_andramp.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\andramp.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_repeat_on.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_repeat_on.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_shuffle_on.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_shuffle_on.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_shuffle.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_shuffle.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_search.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout-xlarge\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_rew.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_rew.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_repeat.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_repeat.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folder_icon.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\folder_icon.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_previous.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_previous.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_progress_bar.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_item.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout\\activity_search_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_list_item.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout-xlarge\\activity_list_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_next.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_next.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_play.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list_item.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout\\activity_list_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_previous.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_previous.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_ff.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_ff.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_repeat_on.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_repeat_on.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_repeat.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_repeat.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\raw_llama.mp3.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\raw\\llama.mp3"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_repeat_on.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_repeat_on.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_repeat.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_repeat.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_next.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_next.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_search_item.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout-xlarge\\activity_search_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_next.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_next.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_play.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_overflow_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_overflow_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_ff.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_ff.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_rew.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_rew.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_pause.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_pause.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_playlist_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_playlist_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_overflow_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_overflow_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_playlist_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_playlist_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_stop.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_stop.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_overflow_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_overflow_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_andramp.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\andramp.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_repeat.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_repeat.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_stop.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_stop.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_pause.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_ff.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_ff.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_shuffle.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_shuffle.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_shuffle.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_shuffle.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_stop.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_stop.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_playlist_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_playlist_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_previous.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_previous.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_settings.xml.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\layout-xlarge\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_pause.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-mdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_stop.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_stop.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_andramp_loading.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\andramp_loading.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_next.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_media_next.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_media_shuffle_on.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_media_shuffle_on.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_ff.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_ff.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_playlist_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_playlist_orange.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_shuffle_on.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_shuffle_on.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_rew.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_rew.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_previous.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_previous.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_previous.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_previous.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_media_shuffle.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable\\ic_media_shuffle.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_media_shuffle_on.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_shuffle_on.png"
+    },
+    {
+        "merged": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_orange.png.flat",
+        "source": "D:\\My Documents\\Android\\AndroidStudio\\Andramp\\app\\src\\main\\res\\drawable-hdpi\\ic_search_orange.png"
+    }
+]

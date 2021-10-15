@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Andramp</string>
+    <string name="file_list">File List</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_add_file">Add File(s)</string>
+    <string name="action_add_folder">Add Folder</string>
+    <string name="action_open_m3u">Open Current Playlist</string>
+    <string name="action_save_m3u">Save Playlist</string>
+    <string name="action_new_m3u">New Playlist</string>
+    <string name="action_search">Search</string>
+    <string name="hello_world">Now Playing:</string>
+    <string name="inital_Time">0 min, 0 sec</string>
+    <string name="desc_mp3Image">MP3 Image</string>
+    <string name="desc_media_previous">Previous song</string>
+    <string name="desc_media_next">Next song</string>
+    <string name="desc_media_play">Play song</string>
+    <string name="desc_media_stop">Stop song</string>
+    <string name="desc_media_pause">Pause song</string>
+    <string name="desc_media_ff">Fast Forward</string>
+    <string name="desc_media_rew">Rewind</string>
+    <string name="desc_media_shuffle">Shuffle</string>
+    <string name="desc_media_repeat">Repeat</string>
+    <string name="desc_media_playlist">PlayList</string>
+    <string name="current_duration">t1</string>
+    <string name="song_duration">t2</string>
+    <string name="song_name">songName</string>
+    <string name="settings">Settings</string>
+    <string name="manual">Manual and CDG play</string>
+    <string name="landscape">Landscape</string>
+    <string name="portrait">Portrait</string>
+    <string name="screen">Screen On</string>
+    <string name="set_home">Set Home Directory</string>
+    <string name="home">Home Directory</string>
+    <string name="folder_path">Path</string>
+    <string name="descr_overflow_button">Menu</string>
+    <string name="descr_search_button">Search</string>
+    <string name="volume">Volume</string>
+    <string name="txtSearch">Search</string>
+    <string name="btnClear">Clear</string>
+
+
+</resources>
