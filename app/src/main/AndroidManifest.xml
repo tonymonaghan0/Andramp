@@ -32,7 +32,8 @@
             android:configChanges="orientation|screenSize"
             android:label="@string/app_name"
 
-            android:theme="@style/AppTheme.Launcher">
+            android:theme="@style/AppTheme.Launcher"
+            android:exported="true">
             <!-- Above line will load the launcher theme  -->
 
             <!-- android:theme="@style/AppTheme">
